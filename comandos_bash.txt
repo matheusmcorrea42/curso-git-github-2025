@@ -1,0 +1,6 @@
+ls - lista arquivos
+cd - navega entre diretórios
+pwd - mostra diretorio atual 
+mkdir - cria pasta/arquivos
+rm -rf - deleta pasta
+git status - 
