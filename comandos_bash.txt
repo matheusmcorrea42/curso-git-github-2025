@@ -3,4 +3,8 @@ cd - navega entre diretórios
 pwd - mostra diretorio atual 
 mkdir - cria pasta/arquivos
 rm -rf - deleta pasta
-git status - 
+git init . - inicializa um repositório git na pasta atual
+git status - mostra status do diretório
+git add {arquivo}- o que eu quero que vá para o commit
+git commit -m {mensagem} - faz o commit do arquivo do passo anterior 
+
