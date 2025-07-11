@@ -10,4 +10,6 @@ Alem disso, vamos trabalhar com GitFlow ao final do curso
     3. git add .
     ...
 
-Segue o link: http: www.curso.com
+Segue o link: http: www.curso.com.br
+
+Mudança, gitflow!
