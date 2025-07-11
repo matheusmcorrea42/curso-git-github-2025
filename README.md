@@ -9,3 +9,5 @@ Alem disso, vamos trabalhar com GitFlow ao final do curso
     2. cria ou atualiza arquivos
     3. git add .
     ...
+
+Segue o link: http: www.curso.com
